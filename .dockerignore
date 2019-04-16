@@ -1,0 +1,6 @@
+docker-compose.yml
+
+.ipynb_checkpoints
+.ipython
+.jupyter
+.local

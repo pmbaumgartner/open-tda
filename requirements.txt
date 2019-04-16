@@ -1,0 +1,5 @@
+hdbscan==0.8.19 
+kmapper==1.2.0
+numpy==1.16.2 
+pandas==0.24.2 
+umap-learn==0.3.8
