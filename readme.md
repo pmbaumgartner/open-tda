@@ -1,6 +1,6 @@
 # TDA
 
-Can we replicate [Anadasi](https://www.ayasdi.com/) with [kepler-mapper](https://github.com/scikit-tda/kepler-mapper), [graph-tool](https://graph-tool.skewed.de/), and [ipywidgets](https://github.com/jupyter-widgets/ipywidgets)? Let's try!
+Can we replicate [Ayasdi](https://www.ayasdi.com/) with [kepler-mapper](https://github.com/scikit-tda/kepler-mapper), [graph-tool](https://graph-tool.skewed.de/), and [ipywidgets](https://github.com/jupyter-widgets/ipywidgets)? Let's try!
 
 ## To Run
 
